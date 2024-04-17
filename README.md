@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharkyzh
 - 👀 I’m interested in .net & vue
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Golang
 
 
 
